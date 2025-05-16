@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/github/license/your-username/your-repo-name?style=flat-square" />
 </p>
 
-<p align="center">✨ A short, catchy description of your project. ✨</p>
+<p align="center">🧠Ideate ⚙️Create 🏃‍♂️‍➡️Train </p>
+<p align="center">📊 Exploratory Data Analysis</p>
+
 
 ---
 
